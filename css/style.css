@@ -91,6 +91,7 @@ padding : 20px
 .para {
 
     align-items: left;
+  
 }
 
 footer
@@ -100,3 +101,7 @@ footer
 button {
    background-color:rgb(28, 151, 227);; 
 }
+
+/*span {
+    border: 1px solid #f5f0f0;
+}*/
